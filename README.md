@@ -1,5 +1,5 @@
-# Optical-Character-Recognition-With-Tesseract-In-Asp.Netb
-## AboutTesseract
+# Optical-Character-Recognition-With-Tesseract-In-Asp.Net
+## About Tesseract
 
 This package contains an **OCR engine** - `libtesseract` and a **command line program** - `tesseract`.
 Tesseract 4 adds a new neural net (LSTM) based OCR engine which is focused
